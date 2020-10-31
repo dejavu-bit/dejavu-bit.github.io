@@ -10,22 +10,22 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "dejavu-bit"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : "Knowledge meets opportunities"
+name                     : "Chandan Sarkar"
+description              : "Knowdledge, Learning & Share"
+url                      : "https://framedescriptor.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZBs-3RjjCF-bbCkDYI8RgRXeVxEN6UNAB4g&usqp=CAU"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : chsarkar08
 facebook:
   username               :
   app_id                 :
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Chandan Sarkar"
+  avatar           : "/assets/images/img.jpeg"
+  bio              : "Technology Evangelist in pursuit of discovering himself"
+  location         : "San Jose, USA"
+  email            : "chsarkar08@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -107,16 +107,19 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/chsarkar08"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/framedescriptor"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/mavericand"
 
 # Site Footer
 footer:
@@ -139,7 +142,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      # url:
 
 # Reading Files
 include:
@@ -275,6 +280,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
       read_time: true
       comments: # true
       share: true
