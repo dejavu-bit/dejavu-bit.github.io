@@ -97,18 +97,18 @@ author:
   name             : "Chandan Sarkar"
   avatar           : "/assets/images/img.jpeg"
   bio              : "Technology Evangelist in pursuit of discovering himself"
-  location         : "San Jose, USA"
-  email            : "chsarkar08@gmail.com"
+  location         : "Bangalore, IN"
+  # email            : "chsarkar08@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "Cisco Systems"
       icon: "fas fa-fw fa-link"
-      url: "https://dejavu-bit.github.io"
+      url: "https://cisco.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/chsarkar08"
+      url: "https://twitter.com/chsarkar08"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -120,14 +120,14 @@ author:
       # url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://linkedin.com/in/mavericand"
+      url: "https://linkedin.com/in/mavericand"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/chsarkar08"
+      # url: "https://twitter.com/chsarkar08"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -137,15 +137,15 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "chsarkar08@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/mavericand"
+      # url: "https://linkedin.com/in/mavericand"
 
 # Reading Files
 include:
@@ -288,3 +288,18 @@ defaults:
       related: true
     # toc: true
       classes: wide
+  # portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout : single
+      author_profile: false
+      excerpt: ""
+      sidebar:
+        nav: "portfolio"
+
+# collections
+collections:
+  portfolio:
+    output: true
