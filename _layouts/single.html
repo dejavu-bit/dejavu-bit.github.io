@@ -25,12 +25,13 @@ layout: default
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
-      {% if page.share %}{% include social-share.html %}{% endif %}
+
         <header>
           {% if page.title %}<h1 id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
           {% include page__meta.html %}
         </header>
       {% endunless %}
+      {% if page.share %}{% include social-share.html %}{% endif %}
       <section class="page__content" itemprop="text">
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
