@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Start"
-    url: /start
+#  - title: "Start"
+#    url: /start
   - title: "Blog"
     url: /blog/
   - title: "Portfolio"
@@ -10,6 +10,7 @@ main:
     url: /about
   - title: "Contact"
     url: /contact/
+
 
 # sidebar for portfolio
 portfolio:
