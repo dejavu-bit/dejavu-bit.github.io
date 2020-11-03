@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "Chandan Sarkar"
   avatar           : "/assets/images/img.jpeg"
-  bio              : "Technology Evangelist in pursuit of discovering himself"
-  location         : "Bangalore, IN"
+  bio              : "Technology Evangelist, Cisco Systems"
+  # location         : "Bangalore, IN"
   # email            : "chsarkar08@gmail.com"
   links:
     - label: "Email"
@@ -105,22 +105,22 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Cisco Systems"
       icon: "fas fa-fw fa-link"
-      url: "https://cisco.com"
+      # url: "https://cisco.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/chsarkar08"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dejavu-bit"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/mavericand"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dejavu-bit"
 
 # Site Footer
 footer:
