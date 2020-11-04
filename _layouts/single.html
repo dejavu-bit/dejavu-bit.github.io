@@ -28,8 +28,8 @@ layout: default
       
         <header>
           {% if page.title %}<h2 id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h2>{% endif %}
-          {% if page.share %}{% include social-share.html %}{% endif %}
           {% include page__meta.html %}
+          {% if page.share %}{% include social-share.html %}{% endif %}
         </header>
       {% endunless %}
 
@@ -54,7 +54,7 @@ layout: default
         {% include page__date.html %}
       </footer>
 
-      {% include post_pagination.html %}
+      <!--{% include post_pagination.html %}-->
     </div>
 
     {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}

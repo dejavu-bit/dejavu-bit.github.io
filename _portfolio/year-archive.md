@@ -2,5 +2,8 @@
 title: "Posts by Year"
 permalink: /blog/
 layout: posts
-author_profile: false
+author_profile: true
+sidebar:
+  title: ""
+  nav: archive
 ---
