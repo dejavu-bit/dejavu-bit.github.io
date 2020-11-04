@@ -23,12 +23,12 @@ name                     : "Chandan Sarkar"
 description              : "Knowdledge, Learning & Share"
 url                      : "https://dejavu-bit.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "dejavu-bit/dejavu-bit.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "https://aurus5.com/blog/images/2017-cisco-logo-1.png"
 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true
+breadcrumbs              : false
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -52,22 +52,14 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
-algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+search_provider          : google
 google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+  search_engine_id       : 7afec682e1bc67537
+  instant_search         : true
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-yandex_site_verification :
-naver_site_verification  :
+google_site_verification : google-site-verification=q-JoDdcDSWgA4EjH7-HheP9yHL4GVV1F_DyEsC2wklQ
 
 # Social Sharing
 twitter:
@@ -86,9 +78,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-MK1CGKKXFH
     anonymize_ip         : # true, false (default)
 
 
@@ -285,8 +277,8 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
-    # toc: true
+      related: false
+      toc: true
       classes: wide
   # portfolio
   - scope:
