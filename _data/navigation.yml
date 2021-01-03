@@ -2,7 +2,7 @@
 main:
 #  - title: "Start"
 #    url: /start
-  - title: "Blog1"
+  - title: "Blog2"
     url: /blog/
   - title: "Portfolio"
     url: /portfolio
