@@ -1,14 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
@@ -28,7 +17,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : "https://aurus5.com/blog/images/2017-cisco-logo-1.png"
 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : false
+breadcrumbs              : true
 $paragraph-indent        : true
 words_per_minute         : 200
 comments:
