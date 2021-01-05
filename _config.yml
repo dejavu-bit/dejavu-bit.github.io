@@ -268,7 +268,7 @@ defaults:
       comments: # true
       share: true
       related: false
-      toc: true
+      # toc: false
       classes: wide
   # portfolio
   - scope:

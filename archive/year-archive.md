@@ -1,9 +1,10 @@
 ---
 title: "All Posts by Year"
-permalink: /blog/
+permalink: /archive/
 layout: posts
 author_profile: true
 class: wide
+toc: false
 #entries_layout: grid
 sidebar:
   title: ""
