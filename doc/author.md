@@ -5,7 +5,7 @@ classes : wide
 title: "About Me"
 ---
 
-I am a general geek with interest in all things networking, working with a community of people who are all passionate about learning, and just generally being a part of a culture that values learning. A Cisco Live Speaker. Last 15 years of my life I spent working with large Telecom and Datacenter Customers, across Datacenter & Enterprise Switching solution, VXLAN, OTV, FabricPath, Catalyst 9000 Product Engineering. 
+I am a general geek with interest in all things networking, working with a community of people who are all passionate about learning, and just generally being a part of a culture that values learning. A Cisco Live Speaker. Last 15 years of my life I spent working with large Telecom and Datacenter Customers designing and building Network solutions, helping them troubleshoot complex problems on Datacenter & Enterprise networks, VXLAN etc while working as Catalyst 9000 Product Engineering. 
 
 These days, I focus mostly on Workload Protection and Zero Trust Security.
 

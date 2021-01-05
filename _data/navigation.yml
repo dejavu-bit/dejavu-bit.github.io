@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Blog"
-    url: /blog/
+    url: /blog
   - title: "Portfolio"
     url: /portfolio
   - title: "Author"
     url: /doc/author
   - title: "Reading List"
-    url: /reading/
+    url: /doc/readlist
   - title: "Tag Cloud"
     url: /doc/tag
 
@@ -79,7 +79,7 @@ tetration:
 # sidebar for portfolio
 docs_list_title: Content
 portfolio:
-  - title: "Projects"
+  - title: "Workload Protection"
     children:
       - title: "Anomaly Detection in Social Networks"
         url: /portfolio/social-networks/
@@ -88,14 +88,14 @@ portfolio:
       - title: "Automatic Genre Classification"
         url: /portfolio/genre_cls/
 
-  - title: "Professional"
+  - title: "Datacenter Space"
     children:
       - title: "DeskAI"
         url: /portfolio/deskai
       - title: "Smart Climate Index"
         url: /portfolio/sclm
 
-  - title: "Research"
+  - title: "Automation"
     children:
       - title: "Dynamic Anomaly Detection"
         url: /portfolio/networks/
@@ -103,3 +103,19 @@ portfolio:
         url: /portfolio/qm_stats/
       - title: "Magnetic Waves and Noise"
         url: /portfolio/waves/
+
+
+
+# sidebar for sidebar-archive
+sidebarCategory:
+  - title: "Categories"
+    children:
+      - title: "Datacenter Space"
+        url: /portfolio/social-networks/
+      - title: "Automation"
+        url: /portfolio/netcomp/
+      - title: "Workload Protection"
+        url: /portfolio/genre_cls/
+      - title: "Edge Case"
+        url: /categories/edge-case/
+
