@@ -17,7 +17,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : "https://aurus5.com/blog/images/2017-cisco-logo-1.png"
 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true
+breadcrumbs              : false
 $paragraph-indent        : true
 words_per_minute         : 200
 comments:

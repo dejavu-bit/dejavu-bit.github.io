@@ -1,15 +1,8 @@
 ---
-author_profile: false
+author_profile: true
 layout: single
 classes : wide
 title: "About Me"
-sidebar:
-  - title: "Role"
-    image: /assets/images/me.jpeg
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
 I am a general geek with interest in all things networking, working with a community of people who are all passionate about learning, and just generally being a part of a culture that values learning. A Cisco Live Speaker. Last 15 years of my life I spent working with large Telecom and Datacenter Customers, across Datacenter & Enterprise Switching solution, VXLAN, OTV, FabricPath, Catalyst 9000 Product Engineering. 
