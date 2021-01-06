@@ -2,14 +2,14 @@
 main:
   - title: "Blog"
     url: /blog
-  - #title: "Portfolio"
-    #url: /portfolio
   - title: "Author"
     url: /doc/author
   - title: "Reading List"
     url: /doc/readlist
   - title: "Tag Cloud"
     url: /doc/tag
+  - #title: "Portfolio"
+    #url: /portfolio
 
 
 # sidebar for Workload Protection
