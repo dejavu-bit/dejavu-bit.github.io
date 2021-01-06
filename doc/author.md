@@ -5,13 +5,13 @@ classes : wide
 title: "About Me"
 ---
 
-I am a general geek with interest in all things networking, working with a community of people who are all passionate about learning, and just generally being a part of a culture that values learning. A Cisco Live Speaker. Last 15 years of my life I spent working with large Telecom and Datacenter Customers designing and building Network solutions, helping them troubleshoot complex problems on Datacenter & Enterprise networks, VXLAN etc while working as Catalyst 9000 Product Engineering. 
+CCIE# 58457 - A general Geek with interest in all things networking, working with a community of people who are all passionate about learning, and just generally being a part of a culture that values learning. A Cisco Live Speaker, spent last 15 years of  life in designing and implementing large-scale Datacenter and Enterprise networks as well as teaching globally, helping Customer troubleshoot complex Network issues. Employed with Cisco Systems and curently working in Catalyst 9000 Switching Business Unit, participaing in Product Architecture Definition and influence the design. 
 
-These days, I focus mostly on Workload Protection and Zero Trust Security.
+These days, he is focussing mostly on Cisco Secure Workload Solution and Zero Trust Security.
 
 #### Proof of Acomplishment
 * [My Resume/CV][1]
-* Industry Certifications
+* ## Industry Certifications
     * Artificial Intelligence For Everyone -  Deeplearnig
     * Cisco DevNet Class of 2020
     * Cisco Certified DevNet Associate 
@@ -28,12 +28,12 @@ These days, I focus mostly on Workload Protection and Zero Trust Security.
     * Certified Infoblox Core Associate v6
     * Certified Nortel ERS ( Configuration & Troubleshooting)
     
-* Verify my active CCIE status
+* ## Verify my active CCIE status
     * First name: Chandan
     * Last name: Sarkar
-    * CCIE number: 58457
+    * <span style="color:blue"> CCIE# 58457</span>
 
-* Bootcamp
+* ## Bootcamp
     * Cisco ACI
     * Openstack Technology
     * Introduction to OpenStack [Linux Foundation]

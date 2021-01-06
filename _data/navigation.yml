@@ -2,8 +2,8 @@
 main:
   - title: "Blog"
     url: /blog
-  - title: "Portfolio"
-    url: /portfolio
+  - #title: "Portfolio"
+    #url: /portfolio
   - title: "Author"
     url: /doc/author
   - title: "Reading List"
@@ -15,7 +15,7 @@ main:
 # sidebar for Workload Protection
 docs_list_title: Workload Protection
 tetration:
-  - title: "Workload Protection"
+  - title: ""
     children:
       - title:  "Cisco Tetration - What Are We Building "
         url: /portfolio/genre_cls/

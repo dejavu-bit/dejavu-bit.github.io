@@ -78,13 +78,10 @@ analytics:
 author:
   name             : "Chandan Sarkar"
   avatar           : "/assets/images/me.jpeg"
-  bio              : "Technology Evangelist, Cisco Systems"
+  bio              : "Technical Engineer, Cisco Systems"
   # location         : "Bangalore, IN"
   # email            : "chsarkar08@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
     - label: "Cisco Systems"
       icon: "fas fa-fw fa-link"
       # url: "https://cisco.com"
@@ -103,6 +100,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dejavu-bit"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:chsarkar08@gmail.com"
 
 # Site Footer
 footer:
@@ -194,9 +194,9 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
-paginate_path: /page:num/
+# permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: "blog/page:num/"
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
