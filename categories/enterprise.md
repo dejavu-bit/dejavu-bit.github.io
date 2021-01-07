@@ -2,7 +2,7 @@
 title: Enterprise
 layout: category
 class: wide
-permalink: /categories/Enterprise/
+permalink: /categories/enterprise/
 taxonomy: Enterprise
 entries_layout: grid
 ---
