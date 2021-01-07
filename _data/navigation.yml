@@ -110,12 +110,14 @@ portfolio:
 sidebarCategory:
   - title: "Categories"
     children:
-      - title: "Datacenter Space"
-        url: /portfolio/social-networks/
+      - title: "Datacenter"
+        url: /categories/datacenter/
+      - title: "Enterprise"
+        url: /categories/enterprise/
       - title: "Automation"
-        url: /portfolio/netcomp/
-      - title: "Workload Protection"
-        url: /portfolio/genre_cls/
-      - title: "Edge Case"
-        url: /categories/edge-case/
+        url: /categories/automation/
+      - title: "Security"
+        url: /categories/security/
+      - title: "Cloud"
+        url: /categories/enterprise/
 
