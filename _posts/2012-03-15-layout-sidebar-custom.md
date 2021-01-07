@@ -2,6 +2,9 @@
 title: "Layout: Sidebar Custom"
 excerpt: "A post with custom sidebar content."
 author_profile: false
+categories:
+  - Datacenter
+  - Enterprise
 sidebar:
   - title: "Title"
     image: http://placehold.it/350x250

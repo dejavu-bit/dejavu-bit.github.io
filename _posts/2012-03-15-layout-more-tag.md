@@ -3,7 +3,7 @@ title: "Layout: More Tag"
 excerpt_separator: <!--more-->
 categories:
   - Layout
-  - Uncategorized
+  - Datacenter
 tags:
   - content
   - read more

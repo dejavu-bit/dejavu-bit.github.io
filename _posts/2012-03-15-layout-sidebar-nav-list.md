@@ -2,6 +2,9 @@
 title: "Layout: Sidebar with Navigation List"
 excerpt: "A post with a sidebar navigation list."
 author_profile: false
+categories:
+  - Datacenter
+  - Enterprise
 sidebar:
   title: "Sample Title"
   nav: sidebar-sample
