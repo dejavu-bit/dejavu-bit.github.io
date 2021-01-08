@@ -122,4 +122,10 @@ sidebarCategory:
         url: /categories/security/
       - title: "Cloud"
         url: /categories/enterprise/
+  -  title: "Tools"
+     children:
+      - title: "Posts by Tags"
+        url: /tags
+      - title: "Posts by Categories"
+        url: /categories
 
