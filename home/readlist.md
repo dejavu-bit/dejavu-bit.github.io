@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: single
+layout: single-full
 classes: wide
 author_profile: false
 sidebar:

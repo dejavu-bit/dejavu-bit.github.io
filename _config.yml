@@ -1,7 +1,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default"
 
 # Site Settings
 locale                   : "en-US"
@@ -10,13 +10,12 @@ title_separator          : "-"
 subtitle                 : "Intelligence being hijacked by Hormones"
 name                     : "Chandan Sarkar"
 description              : "Intelligence being hijacked by Hormones"
-url                      : "https://dejavu-bit.github.io"
+url                      : "https://OffloadBytes.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dejavu-bit/dejavu-bit.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/offloadbytes-logo.png"
 
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false
 $paragraph-indent        : true
 words_per_minute         : 200
@@ -263,13 +262,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-      show_date: true
+      classes: wide
       read_time: true
-      comments: # true
       share: true
       related: false
+      # show_date: true
+      # comments: false
       # toc: false
-      classes: wide
+
   # portfolio
   - scope:
       path: ""

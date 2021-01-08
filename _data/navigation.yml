@@ -6,10 +6,6 @@ main:
     url: /home/author
   - title: "Reading List"
     url: /home/readlist
-  - title: "Tag Cloud"
-    url: /home/tag
-  - title: "Full Page"
-    url: /home/fullpage
   - #title: "Portfolio"
     #url: /portfolio
 
@@ -128,4 +124,6 @@ sidebarCategory:
         url: /tags
       - title: "Posts by Categories"
         url: /categories
+      - title: "Tag Cloud"
+        url: /home/tag
 
