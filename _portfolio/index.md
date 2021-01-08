@@ -1,6 +1,6 @@
 ---
 classes: wide
-layout : home
+layout : single
 title: "Portfolio"
 header:
   overlay_image: /assets/images/tools.jpg

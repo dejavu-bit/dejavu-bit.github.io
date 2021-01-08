@@ -3,11 +3,13 @@ main:
   - title: "Blog"
     url: /blog
   - title: "Author"
-    url: /doc/author
+    url: /home/author
   - title: "Reading List"
-    url: /doc/readlist
+    url: /home/readlist
   - title: "Tag Cloud"
-    url: /doc/tag
+    url: /home/tag
+  - title: "Full Page"
+    url: /home/fullpage
   - #title: "Portfolio"
     #url: /portfolio
 
