@@ -14,7 +14,7 @@ url                      : "https://dejavu-bit.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dejavu-bit/dejavu-bit.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "https://aurus5.com/blog/images/2017-cisco-logo-1.png"
+logo                     : "/assets/images/offloadbytes-logo.png"
 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false
