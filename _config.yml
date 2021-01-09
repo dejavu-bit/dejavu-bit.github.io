@@ -285,7 +285,7 @@ defaults:
       path: ""
       type: tetration
     values:
-      layout : single
+      layout : single-full
       author_profile: false
       excerpt: ""
       sidebar:

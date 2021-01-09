@@ -26,6 +26,41 @@ feature_row:
     url: "/portfolio/social-networks/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/social_network.jpg
+    alt: "Social Network"
+    title: "Anomaly Detection in Social Networks"
+    excerpt: "Anomaly detection in social network data, using the graph resistance."
+    url: "/portfolio/social-networks/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/social_network.jpg
+    alt: "Social Network"
+    title: "Anomaly Detection in Social Networks"
+    excerpt: "Anomaly detection in social network data, using the graph resistance."
+    url: "/portfolio/social-networks/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/social_network.jpg
+    alt: "Social Network"
+    title: "Anomaly Detection in Social Networks"
+    excerpt: "Anomaly detection in social network data, using the graph resistance."
+    url: "/portfolio/social-networks/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/social_network.jpg
+    alt: "Social Network"
+    title: "Anomaly Detection in Social Networks"
+    excerpt: "Anomaly detection in social network data, using the graph resistance."
+    url: "/portfolio/social-networks/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/social_network.jpg
+    alt: "Social Network"
+    title: "Anomaly Detection in Social Networks"
+    excerpt: "Anomaly detection in social network data, using the graph resistance."
+    url: "/portfolio/social-networks/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 <div style="margin-bottom:1cm" align="left"><font size="5">Books in my library</font></div>

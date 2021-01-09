@@ -6,19 +6,20 @@ main:
     url: /author
   - title: "Library"
     url: /library
-  - title: "Fullpage"
-    url: /fullpage
-  - #title: "Portfolio"
-    #url: /portfolio
-
-
+  - title: "Tutorial"
+    url: /tutorial
+  - title: "IETF"
+    url: /ietf
+  - title: "Scientific Paper"
+    url: /scientific_paper
+  
 # sidebar for Workload Protection
 docs_list_title: Workload Protection
 tetration:
   - title: ""
     children:
       - title:  "Cisco Tetration - What Are We Building "
-        url: /tetration/genre_cls/
+        url: /tetration/What Are We Building
       - title:  "Cisco Tetration - Data Sources "
         url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Agent Overview "
