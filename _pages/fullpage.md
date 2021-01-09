@@ -3,6 +3,8 @@ author_profile: false
 layout: single-full
 #classes : wide
 title: "About:"
+share: true
+permalink: /fullpage/
 ---
 
 CCIE# 58457 - A general Geek with interest in all things networking, working with a community of people who are all passionate about learning, and just generally being a part of a culture that values learning. A Cisco Live Speaker, spent last 15 years of  life in designing and implementing large-scale Datacenter and Enterprise networks as well as mentoring worldwide, helping Customers troubleshoot complex Network issues. Employed with Cisco Systems and curently working in Catalyst 9000 Switching Business Unit, participaing in Product Architecture Definition and influence the design. 
@@ -41,6 +43,6 @@ These days, he is focussing mostly on Cisco Secure Workload Solution and Zero Tr
 
 <!------------------------------- FOOTER --------------------------------->
 
-[1]: /doc/resume.pdf
+[1]: /assets/resume.pdf
 [2]: mailto:peter@pwills.com
 

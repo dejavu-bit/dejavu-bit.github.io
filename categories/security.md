@@ -1,9 +1,9 @@
 ---
-title: Datacenter
+title: Security
 layout: category
 class: wide
-permalink: /categories/datacenter/
-taxonomy: Datacenter
+permalink: /categories/security/
+taxonomy: security
 entries_layout: grid
 sidebar:
   - title: ""
@@ -15,4 +15,4 @@ sidebar:
     text: ""
 ---
 
-Sample post listing for the category `datacenter`.
+Sample post listing for the category `security`.

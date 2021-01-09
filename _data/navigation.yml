@@ -3,9 +3,11 @@ main:
   - title: "Blog"
     url: /blog
   - title: "Author"
-    url: /home/author
-  - title: "Reading List"
-    url: /home/readlist
+    url: /author
+  - title: "Library"
+    url: /library
+  - title: "Fullpage"
+    url: /fullpage
   - #title: "Portfolio"
     #url: /portfolio
 
@@ -16,63 +18,63 @@ tetration:
   - title: ""
     children:
       - title:  "Cisco Tetration - What Are We Building "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Data Sources "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Agent Overview "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Agent Installation -Video "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Agent Configuration "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Orchestrators - vCenter and Kube "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Scopes "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Scope Design "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Inventory "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Filters "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Workspace and Policy Introduction "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Policy Lifecycle "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Basic Application Discovery "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Enhancing Application Discovery "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Provided Services "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Policy Ordering "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Policy Validation and Policy Analysis "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Where to Enforce? "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Policy Enforcement "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Container Enforcement "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Alerting "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Workload Security and Dashboard "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Connector Overview "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Connector Deploy "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Campus "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Auditing "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Agent Operation "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Data Backup and Restore "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Federation "
-        url: /portfolio/genre_cls/
+        url: /tetration/genre_cls/
 
 # sidebar for portfolio
 docs_list_title: Content
@@ -117,7 +119,7 @@ sidebarCategory:
       - title: "Security"
         url: /categories/security/
       - title: "Cloud"
-        url: /categories/enterprise/
+        url: /categories/cloud/
   -  title: "Tools"
      children:
       - title: "Posts by Tags"
@@ -125,5 +127,5 @@ sidebarCategory:
       - title: "Posts by Categories"
         url: /categories
       - title: "Tag Cloud"
-        url: /home/tag
+        url: /tag
 

@@ -1,10 +1,10 @@
 ---
-title: Datacenter
+title: Automation
 layout: category
 class: wide
-permalink: /categories/datacenter/
-taxonomy: Datacenter
-entries_layout: grid
+permalink: /categories/automation/
+taxonomy: automation
+#entries_layout: grid
 sidebar:
   - title: ""
     image: /assets/images/me.jpeg
@@ -15,4 +15,4 @@ sidebar:
     text: ""
 ---
 
-Sample post listing for the category `datacenter`.
+Sample post listing for the category `automation`.

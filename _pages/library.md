@@ -2,13 +2,7 @@
 title: ""
 layout: single-full
 classes: wide
-author_profile: false
-sidebar:
-  - title: ""
-    image: /assets/images/me.jpeg
-    image_alt: "logo"
-    text: "Technical Engineer, Cisco Systems"
-  - nav: "sidebarCategory"
+permalink: /library/
 
 feature_row:
   - image_path: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421842784l/36072.jpg

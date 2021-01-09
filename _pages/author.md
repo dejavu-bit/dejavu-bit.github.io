@@ -3,11 +3,12 @@ author_profile: true
 layout: single
 classes : wide
 title: "About:"
+permalink: /author/
 ---
 
-CCIE# 58457 - A general Geek with interest in all things networking, working with a community of people who are all passionate about learning, and just generally being a part of a culture that values learning. A Cisco Live Speaker, spent last 15 years of  life in designing and implementing large-scale Datacenter and Enterprise networks as well as mentoring worldwide, helping Customers troubleshoot complex Network issues. Employed with Cisco Systems and curently working in Catalyst 9000 Switching Business Unit, participaing in Product Architecture Definition and influence the design. 
+I am an Engineer (CCIE# 58457) in [Cisco Systems India][2], Bangalore in Catalyst 9000 Switching Business Unit. My background is in Computer Systems, Datacenter and Enterprise Networks. I have had the pleasure of working with excellent colleagues arond the globe, who have helped me in getting an extensive industry experience in the design, analysis, implementation and functionality in the area of networking, including wired and wireless networks, and distributed systems. Recently, I have started to focus on Networ Analytics, Workload Protection and Zero Trust Architecture. Before Cisco, I was at MTN Telecom (Africa) at Center of Excellence department working with Company CTO, designing and implementing data center switching architectures and Critical Problem Solving.
 
-These days, focussing mostly on Cisco Secure Workload Solution and Zero Trust Security.
+Outside of my professional work, I am a general Geek with interest in all things networking, likes to work with a community of people who are all passionate about learning, and just generally being a part of a culture that values learning. A Cisco Live Speaker, likes to participate in Industry Conferences & meets.
 
 #### Proof of Acomplishment
 * [My Resume/CV][1]
@@ -41,6 +42,6 @@ These days, focussing mostly on Cisco Secure Workload Solution and Zero Trust Se
 
 <!------------------------------- FOOTER --------------------------------->
 
-[1]: /doc/resume.pdf
-[2]: mailto:peter@pwills.com
+[1]: /assets/resume.pdf
+[2]: https://www.cisco.com
 
