@@ -29,7 +29,6 @@ layout: default
         <header>
           {% if page.title %}<h2 id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h2>{% endif %}
           {% include page__meta.html %}
-          {% if page.share %}{% include social-share.html %}{% endif %}
         </header>
       {% endunless %}
 
@@ -52,6 +51,7 @@ layout: default
         {% endif %}
         {% include page__taxonomy.html %}
         {% include page__date.html %}
+        {% if page.share %}{% include social-share.html %}{% endif %}
       </footer>
 
       <!--{% include post_pagination.html %}-->

@@ -10,8 +10,8 @@ main:
     url: /tutorial
   - title: "IETF"
     url: /ietf
-  - title: "Scientific Paper"
-    url: /scientific_paper
+#  - title: "Scientific Paper"
+#    url: /scientific_paper
   
 # sidebar for Workload Protection
 docs_list_title: Workload Protection
