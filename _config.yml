@@ -206,6 +206,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-menus
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -296,4 +297,23 @@ collections:
     output: true
   tetration:
     output: true
-  
+
+menu:
+  - title: 'Home'
+    url: '/'
+  - title: 'Fork'
+    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
+  - title: 'Install'
+    url: '/theme-setup/'
+  - title: 'Tags'
+    url: '/tags'
+  - title: 'Categories'
+    url: '/categories'
+    type: 'categories'
+  - title: 'Favorites'
+    url: '#'
+    submenu:
+      - title: 'highlighter'
+        url: '/code-highlighting-post/'
+      - title: 'intro'
+        url: '/readability-post/'

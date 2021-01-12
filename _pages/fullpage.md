@@ -1,9 +1,6 @@
 ---
-author_profile: false
 layout: single-full
-#classes : wide
 title: "About:"
-share: true
 permalink: /fullpage/
 ---
 

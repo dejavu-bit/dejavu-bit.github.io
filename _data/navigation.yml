@@ -4,10 +4,10 @@ main:
     url: /blog
   - title: "Author"
     url: /author
-  - title: "Library"
-    url: /library
-  - title: "Tutorial"
-    url: /tutorial
+#  - title: "Library"
+#    url: /library
+#  - title: "Tutorial"
+#    url: /tutorial
   - title: "IETF"
     url: /ietf
 #  - title: "Scientific Paper"
@@ -19,7 +19,7 @@ tetration:
   - title: ""
     children:
       - title:  "Cisco Tetration - What Are We Building "
-        url: /tetration/What Are We Building
+        url: /post/tetration/chapter1-1
       - title:  "Cisco Tetration - Data Sources "
         url: /tetration/genre_cls/
       - title:  "Cisco Tetration - Agent Overview "
@@ -117,9 +117,9 @@ sidebarCategory:
         url: /categories/enterprise/
       - title: "Automation"
         url: /categories/automation/
-      - title: "Security"
+      - title: "Workload Security"
         url: /categories/security/
-      - title: "Cloud"
+      - title: "Cloud Networking"
         url: /categories/cloud/
   -  title: "Tools"
      children:
@@ -130,3 +130,13 @@ sidebarCategory:
       - title: "Tag Cloud"
         url: /tag
 
+# sidebar for TUTORIAL
+tutorial:
+  - title: "Tutorial"
+    children:
+      - title: "Catalyst 9000"
+        url: /cat9k/
+      - title: "Datacenter Switching"
+        url: /dcswitching/
+      - title: "Cisco Tetration"
+        url: /tetration/

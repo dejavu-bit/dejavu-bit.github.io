@@ -4,7 +4,7 @@ layout: category
 class: wide
 permalink: /categories/datacenter/
 taxonomy: Datacenter
-entries_layout: grid
+entries_layout: list #grid
 sidebar:
   - title: ""
     image: /assets/images/me.jpeg

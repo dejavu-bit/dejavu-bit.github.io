@@ -3,28 +3,18 @@ layout: single
 classes : wide
 author_profile: false
 googlewebfonts: Gloria+Hallelujah
-#title: "My Notebook"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
-# header:
-  # image: /assets/images/me1.jpeg
-  # teaser: /assets/images/me.jpeg
 sidebar:
   - title: ""
     image: /assets/images/me.jpeg
-    image_alt: "logo"
+    #image_alt: "logo"
     text: "Technical Engineer, Cisco Systems"
   - nav: "sidebarCategory"
-  - title: ""
-    text: ""
 ---
 <h5> Welcome !</h5>
-<p>
-  This website provides relavent contents in almost all things networking but mostly on Cisco Secure Workload Solution and Zero Trust Security. Designed in very plain text and can be searched using browser tools. You wont find any images, videos, or advertisements. 
-</p>
-<p>
-  Our content on Cisco Secure Workload (formerly known as Cisco Tetration) listing are as follows :
-</p>
-{% for item in site.data.navigation.tetration %}
+<p>This website provides relavent contents in almost all things networking, designed in very plain text and can be searched using browser tools. You wont find any heavy images, videos, or advertisements. </p>
+<p>My content listing on Cisco Secure Workload (formerly known as Tetration Analytics ) are as follows :</p>
+<!--This code is to pull all the navigation menu for Tetration -->
+  {% for item in site.data.navigation.tetration %}
     <h3>{{ item.title }}</h3>
       <ul>
         {% for entry in item.children %}
